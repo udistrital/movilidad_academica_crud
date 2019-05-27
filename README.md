@@ -5,7 +5,7 @@
 ### Modelo de Datos
 ![](modelo_datos.png)
 
-Sql de la base de datos: **<a href="https://drive.google.com/file/d/1LJ_8nXmSo9lsoDzZPKfn6Q-7bdk8FZqK/view?usp=sharing" target="_blank">ceri BD</a>**
+Sql de la base de datos: **[ceri BD](https://drive.google.com/file/d/1LJ_8nXmSo9lsoDzZPKfn6Q-7bdk8FZqK/view?usp=sharing)**
 
 
 # Instalación
@@ -61,11 +61,12 @@ bee run -downdoc=true -gendoc=true
 ### Puertos
 * El servidor se expone en el puerto: 127.0.0.1:8080
 
-* Para ver la documentación de swagger: <a href="http://127.0.0.1:8080/swagger/" target="_blank">127.0.0.1:8080/swagger/</a>
+* Para ver la documentación de swagger: [127.0.0.1:8080/swagger/](http://127.0.0.1:8080/swagger/){:target="_blank"}
+
 ### EndPoints
 
 |                |link de prueba                  |End Point|
 |----------------|-------------------------------|------------------------|
-| **Obtiene datos asociados a la movilidad estudiantil** |<a href="http://127.0.0.1:8080/v1/movilidad" target="_blank">GetAll</a>|
-| **Obtiene las categorías de movilidad** |<a href="http://127.0.0.1:8080/v1/tipo_categoria" target="_blank">GetAll</a>  |`127.0.0.1:8080/v1/tipo_categoria`|
-| **Obtiene los tipo de movilidad(Extranjera o nacional)** |<a href="http://127.0.0.1:8080/v1/tipo_movilidad" target="_blank">GetAll</a>| `127.0.0.1:8080/v1/tipo_movilidad` |
+| **Obtiene datos asociados a la movilidad estudiantil** |[GetAll](http://127.0.0.1:8080/v1/movilidad)| `127.0.0.1:8080/v1/movilidad` |
+| **Obtiene las categorías de movilidad** | [GetAll](http://127.0.0.1:8080/v1/tipo_categoria) |`127.0.0.1:8080/v1/tipo_categoria`|
+| **Obtiene los tipo de movilidad(Extranjera o nacional)** |[GetAll](http://127.0.0.1:8080/v1/tipo_movilidad)| `127.0.0.1:8080/v1/tipo_movilidad` |
