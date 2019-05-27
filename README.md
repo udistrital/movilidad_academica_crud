@@ -64,8 +64,9 @@ bee run -downdoc=true -gendoc=true
 * Para ver la documentación de swagger: 127.0.0.1:8080/swagger/
 
 ### EndPoints
-|                |EndPoint                       |
-|----------------|-------------------------------|
-| **Movilidad** | `127.0.0.1:8080/v1/movilidad` |
-| **Tipo de Movilidad** | `127.0.0.1:8080/v1/tipo_movilidad` |
-| **Tipo de Categoría** | `127.0.0.1:8080/v1/tipo_categoria` |
+
+|                |link de prueba                  |End Point|
+|----------------|-------------------------------|------------------------|
+| **Obtiene datos asociados a la movilidad estudiantil** |[GetAll](http://127.0.0.1:8080/v1/movilidad)| `127.0.0.1:8080/v1/movilidad` |
+| **Obtiene las categorías de movilidad** | [GetAll](http://127.0.0.1:8080/v1/tipo_categoria) |`127.0.0.1:8080/v1/tipo_categoria`|
+| **Obtiene los tipo de movilidad(Extranjera o nacional)** |[GetAll](http://127.0.0.1:8080/v1/tipo_movilidad)| `127.0.0.1:8080/v1/tipo_movilidad` |
