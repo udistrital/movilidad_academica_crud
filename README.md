@@ -64,8 +64,3 @@ bee run -downdoc=true -gendoc=true
 * Para ver la documentación de swagger: 127.0.0.1:8080/swagger/
 
 #EndPoints
-|                |EndPoint                          |
-|----------------|-------------------------------|
-|**Movilidad** |`127.0.0.1:8080/v1/movilidad`            |
-|**Tipo de Movilidad**          |`127.0.0.1:8080/v1/tipo_movilidad`            |
-|**Tipo de Categoría**          |`127.0.0.1:8080/v1/tipo_categoria`|
