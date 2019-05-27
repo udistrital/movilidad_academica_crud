@@ -61,7 +61,7 @@ bee run -downdoc=true -gendoc=true
 ### Puertos
 * El servidor se expone en el puerto: 127.0.0.1:8080
 
-* Para ver la documentación de swagger: [127.0.0.1:8080/swagger/](http://127.0.0.1:8080/swagger/){:target="_blank"}
+* Para ver la documentación de swagger: [127.0.0.1:8080/swagger/](http://127.0.0.1:8080/swagger/ "target"=_blank)
 
 ### EndPoints
 
