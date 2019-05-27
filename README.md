@@ -45,7 +45,7 @@ got get
 # Ejecución del proyecto
 Ubicado en la raíz del proyecto,
 ```shell 
-cd ~/go/src/github.com/udistrital/movilidad_academica_mid
+cd ~/go/src/github.com/udistrital/movilidad_academica_crud
 ```
 
 - Ejecutar: 
