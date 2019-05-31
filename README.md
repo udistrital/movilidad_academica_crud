@@ -5,7 +5,7 @@
 ### Modelo de Datos
 ![](modelo_datos.png)
 
-Sql de la base de datos: **[ceri BD](https://drive.google.com/file/d/1LJ_8nXmSo9lsoDzZPKfn6Q-7bdk8FZqK/view?usp=sharing)**
+Sql de la base de datos: **[movilidad académica BD](https://drive.google.com/file/d/1LJ_8nXmSo9lsoDzZPKfn6Q-7bdk8FZqK/view?usp=sharing)**
 
 
 # Instalación
