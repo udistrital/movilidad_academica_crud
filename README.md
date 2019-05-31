@@ -15,7 +15,7 @@ Para instalar el proyecto de debe relizar lo siguientes pasos:
 
 Ejecutar desde la terminal 'go get repositorio':
 ```shell 
-go get https://github.com/udistrital/movilidad_academica_crud.git
+go get github.com/udistrital/movilidad_academica_crud.git
 ```
 
 ## Opción 2
