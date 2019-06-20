@@ -21,7 +21,7 @@ func init() {
 func (m *CrearSchema_20190620_161052) Up() {
 	// use m.SQL("CREATE TABLE ...") to make schema update
 m.SQL("CREATE SCHEMA movilidad_academica;")
-m.SQL("ALTER SCHEMA movilidad_academica OWNER TO sistemasoas;")
+m.SQL("ALTER SCHEMA movilidad_academica OWNER TO desarrollooas;")
 m.SQL("SET search_path TO pg_catalog,public,movilidad_academica;")
 
 }
